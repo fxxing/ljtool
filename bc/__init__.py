@@ -1,0 +1,1 @@
+# LuaJit byte code
